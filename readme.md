@@ -6,6 +6,8 @@ The Decentralized Student Loan Platform is a blockchain-based solution that enab
 
 ## Contract Address
 **Deployed Contract Address:** `0xF569733a55AC14926f7B9Da5Bc3E44b94250A214`  
+![image](https://github.com/user-attachments/assets/58ea8355-7e50-4f3d-8cdc-3da1ba5b68c3)
+
 
 
 ## Project Vision
